@@ -1,3 +1,3 @@
 # SEO is very difficult
 
-Useful tools [https://github.com/yeh-john/SEO](Link)
+Useful tools ([Link](https://github.com/yeh-john/SEO))
